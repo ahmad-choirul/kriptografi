@@ -1,0 +1,24 @@
+cara pakai software
+
+---digital signature from text ---
+pembuatan digital sign
+1. masukan text di kotak string
+2. klik save maka hasil hashing md5,sha1, dan sha256 akan muncul
+3. klik simpan dan taruh hasil hash di directory anda
+
+pengecekan digital sign
+1. ikuti langkah pembuatan digital sign
+2. saat nilai hash muncil klik browse di kolom cek dan cari file digial sign nya
+3. klik cek dan hasil dari pengecekan akan muncul apakah text itu asli atau tidak
+
+
+---digital signature from file---
+pembuatan digital sign
+1. klik browse dan cari file yang akan dibuat digital sign nnya
+2. klik get hash maka hasil hashing md5,sha1, dan sha256 akan muncul
+3. klik simpan dan taruh hasil hash di directory anda
+
+pengecekan digital sign
+1. ikuti langkah pembuatan digital sign
+2. saat nilai hash muncil klik browse di kolom cek dan cari file digial sign nya
+3. klik cek dan hasil dari pengecekan akan muncul apakah text itu asli atau tidak
